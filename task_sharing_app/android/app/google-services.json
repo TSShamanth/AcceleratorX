@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277371488496",
+    "project_id": "acceleratorx-f667f",
+    "storage_bucket": "acceleratorx-f667f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277371488496:android:bc7a3a28770125ce33da35",
+        "android_client_info": {
+          "package_name": "com.example.task_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBiyIpfyW-vAwUroxGrbVt-zdn0vkIskg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
